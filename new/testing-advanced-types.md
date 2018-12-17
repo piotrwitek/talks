@@ -16,7 +16,7 @@ Tags: mapped types, conditional types, testing
 
 ### Summary
 
-Why and how for testing complex conditional and mapped types in libraries and projects.
+The why and how of testing complex conditional and mapped types in libraries and projects.
 
 ### Format
 
