@@ -24,8 +24,8 @@ Case Study
 
 ### Full description
 
-In many TS libraries as well as in JS libraries using ambient type definitions we can find some advanced mapped types, conditional types or a mix of both. The most common example are utility types like Omit, Diff, etc.
-In this talk I would like to show you how you can test your advanced types for correctness which is really useful when dealing with some edge cases and making sure they won’t happen again.
+In many TS libraries as well as in JS libraries using ambient type definitions we can find some complex mapped types, conditional types or a mix of both. The most common example are utility types like Omit, Diff, etc.
+In this talk I would like to show you how you can test your complex types for correctness which can be really useful when dealing with some edge cases in your library code and making sure they won’t happen again.
 
 ## You
 
